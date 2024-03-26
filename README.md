@@ -1,10 +1,13 @@
 # This is the data and code repository for manuscripts submitted to ICSE 2025.
 
+## statistical test for RQ2
+We first give the statistical test results of the RQ2 results in the paper (corresponding to Table IV in the paper)
+
 ![contents](./TableIV.png)
 
 
 ## Datasets
-We first give the datasets under the datasets folder shown above, these datasets were processed well by previous researchers.
+We then give the datasets under the datasets folder shown above, these datasets were processed well by previous researchers.
 
 ## Code Pre-trained Models
 The code pre-trained models used in this paper are all come from HuggingFace, we give the links to download them:
