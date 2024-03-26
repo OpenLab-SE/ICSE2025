@@ -1,5 +1,8 @@
 # This is the data and code repository for manuscripts submitted to ICSE 2025.
 
+<embed src="TableIV.pdf" type="application/pdf" width="100%" height="600px" />
+
+
 ## Datasets
 We first give the datasets under the datasets folder shown above, these datasets were processed well by previous researchers.
 
