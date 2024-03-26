@@ -1,6 +1,6 @@
 # This is the data and code repository for manuscripts submitted to ICSE 2025.
 
-## statistical test for RQ2
+## Statistical test for RQ2
 We first give the statistical test results of the RQ2 results in the paper (corresponding to Table IV in the paper)
 
 ![contents](./TableIV.png)
