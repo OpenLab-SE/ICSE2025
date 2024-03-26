@@ -1,6 +1,6 @@
 # This is the data and code repository for manuscripts submitted to ICSE 2025.
 
-![contents](TableIV.pdf)
+![contents](./TableIV.pdf)
 
 
 ## Datasets
