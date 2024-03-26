@@ -1,6 +1,6 @@
 # This is the data and code repository for manuscripts submitted to ICSE 2025.
 
-![contents]([./TableIV.pdf](https://github.com/OpenLab-SE/ICSE2025/blob/main/TableIV.pdf))
+![contents]([./TableIV.png](https://github.com/OpenLab-SE/ICSE2025/blob/main/TableIV.png))
 
 
 ## Datasets
